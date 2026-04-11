@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Power BI Dashboard</title>
+</head>
+<body>
+<h2>My Power BI Dashboard</h2>
+<iframe width="100%" height="600"
+src=https://app.powerbi.com/reportEmbed?reportId=18bcab7b-4ac3-456c-9f54-f528bb8dc1a5&autoAuth=true&ctid=aed43286-0f66-47d6-942b-d31a4b8addca
+frameborder="0" allowFullScreen="true"></iframe>
+</body>
+</html>
